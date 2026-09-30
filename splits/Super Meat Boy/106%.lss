@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Meat Boy</GameName>
+  <CategoryName>106%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region />
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Forest Light &amp; Dark</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Hospital Light &amp; Dark</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Factory Light &amp; Dark</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Hell Light &amp; Dark</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Rapture Light &amp; Dark</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The End &amp; Cotton Alley</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime /><SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-30T00:00:00Z",
+  "games": [
+    {
+      "gameName": "Super Meat Boy",
+      "aliases": ["SMB", "SuperMeatBoy", "Super Meat Boy (PC)"],
+      "categories": [
+        {
+          "name": "Any%",
+          "file": "splits/Super Meat Boy/Any%.lss",
+          "description": "Any% (Forest -> Hospital -> Factory -> Hell -> Rapture -> The End)"
+        },
+        {
+          "name": "All Light Worlds",
+          "file": "splits/Super Meat Boy/All Light Worlds.lss",
+          "description": "All Light Worlds"
+        },
+        {
+          "name": "106%",
+          "file": "splits/Super Meat Boy/106%.lss",
+          "description": "106% Completion"
+        }
+      ]
+    },
+    {
+      "gameName": "Celeste",
+      "aliases": ["セレステ"],
+      "categories": [
+        {
+          "name": "Any%",
+          "file": "splits/Celeste/Any%.lss",
+          "description": "Any% (Prologue through 7A Summit)"
+        },
+        {
+          "name": "All Chapters",
+          "file": "splits/Celeste/All Chapters.lss",
+          "description": "All Chapters (Prologue through 8A Core)"
+        }
+      ]
+    },
+    {
+      "gameName": "Homura Hime",
+      "aliases": ["HomuraHime", "焔姫"],
+      "categories": [
+        {
+          "name": "Any% (Shrine Maiden)",
+          "file": "splits/Homura Hime/Any% (Shrine Maiden).lss",
+          "description": "Standard Any% Route with Shrine Visits"
+        }
+      ]
+    }
+  ]
+}

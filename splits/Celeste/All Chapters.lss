@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Celeste</GameName>
+  <CategoryName>All Chapters</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region />
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Prologue</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>1 - Forsaken City</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>2 - Old Site</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>3 - Celestial Resort</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>4 - Golden Ridge</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>5 - Mirror Temple</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>6 - Reflection</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>7 - The Summit</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>8 - Core</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

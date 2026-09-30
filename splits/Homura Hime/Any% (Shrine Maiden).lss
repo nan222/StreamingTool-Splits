@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Homura Hime</GameName>
+  <CategoryName>Any% (Shrine Maiden)</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region />
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Tutorial</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Shrine 1</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>1. Adashino - Spiriting Away Border</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>2. Demonic Realm - Carcass Ravine</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>3. Agasa, Skeleton Girl</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Shrine 2</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>1. ??? - Hidden Path</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>2. Ling Ling</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>1. Jinguu - Pathway</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>2. Admini Defeated</Name>
+      <Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
